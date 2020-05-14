@@ -2,6 +2,7 @@
 
 [![Build status](https://dev.azure.com/clarinojd/Covid-19%20Tracker/_apis/build/status/COVID%20Tracker%20PROD)](https://dev.azure.com/clarinojd/Covid-19%20Tracker/_build/latest?definitionId=7)
 
+Visit the site here https://covidtracker.ph
 
 This project is meant as a lightweight mobile friendly alternative to the official [DOH NCov Tracker](https://ncovtracker.doh.gov.ph/). It aims to provide a better user experience to the Filipino community as a whole amidst this Pandemic.
 
