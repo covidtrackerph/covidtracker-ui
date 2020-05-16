@@ -1,6 +1,6 @@
 # COVID Tracker Philippines
 
-[![Build status](https://dev.azure.com/clarinojd/Covid-19%20Tracker/_apis/build/status/COVID%20Tracker%20PROD)](https://dev.azure.com/clarinojd/Covid-19%20Tracker/_build/latest?definitionId=7)
+![Covid Tracker UI CI/CD](https://github.com/covidtrackerph/covidtracker-ui/workflows/Covid%20Tracker%20UI%20CI/CD/badge.svg?branch=master)
 
 Visit the site here https://covidtracker.ph
 
