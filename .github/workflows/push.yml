@@ -31,4 +31,4 @@ jobs:
       - name: Sync files with S3
         run: |
           aws s3 sync ./dist/ncov-tracker/ s3://covid-tracker-ui-prod
-          aws --region us-east-1 cloudfront create-invalidation --distribution-id 'E1FQR0D7SQEOUW' --paths '/*'
+          aws cloudfront create-invalidation --distribution-id 'E1FQR0D7SQEOUW' --paths '/*'
