@@ -13,10 +13,10 @@ If you are from the **United States**, my colleague [@vdurano](https://github.co
 ## Tech Stack
 
 - Framework - **Angular 8.3** (Not moving to 9.0 yet)
-- CI/CD - **Azure Pipelines**
-- Hosting - **Azure Blob Storage**
-- Distribution - **Azure CDN**
-- Data source - All data comes from [ESRI Arcgis](https://www.esri.com/en-us/home).
+- CI/CD - **Github Actions**
+- Hosting - **AWS S3**
+- Distribution - **AWS CloudFront**
+- Data source - All data comes from [DOH DataDrop](http://bit.ly/dohcovid19data).
 
 ## Dependencies
 - [ngx-virtual-scroller](https://www.npmjs.com/package/ngx-virtual-scroller)
