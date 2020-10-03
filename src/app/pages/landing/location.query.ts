@@ -38,14 +38,14 @@ export class LocationQuery extends Query<LocationQueryData> {
       }
       cebu: locationStatistic(
         type: CITY
-        search: "CEBU PROVINCE"
+        search: "CEBU"
         searchType: PROVINCE
       ) {
         ...locationFragment
       }
       manila: locationStatistic(
         type: CITY
-        search: "METRO MANILA"
+        search: "NCR"
         searchType: PROVINCE
       ) {
         ...locationFragment
